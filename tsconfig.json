@@ -20,6 +20,6 @@
     "jsx": "react"
   },
   "include": [
-    "src"
+    "src", "components/App.test.tsx", "components/App.tsx", "setupTests.js"
   ]
 }
